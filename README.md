@@ -1,4 +1,4 @@
-# Project 1--COP4610
+# Shell Simulation
 The purpose of this project is to familiarize you with the mechanics of process control through the implementation of a shell user interface.
 
 # Contents
